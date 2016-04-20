@@ -24,6 +24,12 @@ hr {
 	width: 100%;
 }
 
+#pinterest {
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
 #colocation-example {
 	font-size: 20px;
 	padding: 15px;
